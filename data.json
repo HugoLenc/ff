@@ -56,10 +56,6 @@
     "passengers": 870988,
     "to": "Glasgow International",
 }, {
-    "points": [51.471655, -0.453467, 57.149315, -2.093963],
-    "passengers": 776880,
-    "to": "Aberdeen",
-}, {
     "points": [51.471655, -0.453467, 54.597209, -5.930095],
     "passengers": 674889,
     "to": "Belfast City",
