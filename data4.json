@@ -1,41 +1,29 @@
 [{
     "points": [51.471655, -0.453467, 55.949056, -3.189596],
     "passengers": 1472812,
-    "to": "Edinburgh",
-    "curvature": 0
+    "to": "Edinburgh"
 }, {
     "points": [51.471655, -0.453467, 53.478805, -2.243742],
     "passengers": 876597,
-    "to": "Manchester",
-    "curvature": 0
+    "to": "Manchester"
 }, {
     "points": [51.471655, -0.453467, 55.868966, -4.435128],
     "passengers": 870988,
-    "to": "Glasgow International",
-    "curvature": 0
+    "to": "Glasgow International"
 }, {
     "points": [51.471655, -0.453467, 57.149315, -2.093963],
     "passengers": 776880,
-    "to": "Aberdeen",
-    "curvature": 0,
-    "label": {
-        "enabled": true,
-        "anchor": "rightBottom",
-        "offsetY": 0
-    }
+    "to": "Aberdeen"
 }, {
     "points": [51.471655, -0.453467, 54.597209, -5.930095],
     "passengers": 674889,
-    "to": "Belfast City",
-    "curvature": 0
+    "to": "Belfast City"
 }, {
     "points": [51.471655, -0.453467, 54.972206, -1.617285],
     "passengers": 478806,
-    "to": "Newcastle upon Tyne",
-    "curvature": 0
+    "to": "Newcastle"
 }, {
     "points": [51.471655, -0.453467, 53.867956, -1.661885],
     "passengers": 132325,
-    "to": "Leeds/Bradford",
-    "curvature": 0
+    "to": "Leeds/Bradford"
 }]
