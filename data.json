@@ -123,14 +123,6 @@
     "passengers": 935913,
     "to": "Stockholm Arlanda"
 }, {
-    "points": [51.471655, -0.453467, -26.136894, 28.241114],
-    "passengers": 928876,
-    "to": "Johannesburg Tambo",
-    "label": {
-        "enabled": true,
-        "anchor": "top"
-    }
-}, {
     "points": [51.471655, -0.453467, 40.982819, 28.810421],
     "passengers": 924475,
     "to": "Istanbul Atatürk"
