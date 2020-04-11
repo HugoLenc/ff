@@ -50,19 +50,19 @@
 }, {
     "points": [51.471655, -0.453467, 53.478805, -2.243742],
     "passengers": 876597,
-    "to": "Manchester",
+    "to": "Manchester"
 }, {
     "points": [51.471655, -0.453467, 55.868966, -4.435128],
     "passengers": 870988,
-    "to": "Glasgow International",
+    "to": "Glasgow International"
 }, {
     "points": [51.471655, -0.453467, 54.597209, -5.930095],
     "passengers": 674889,
-    "to": "Belfast City",
+    "to": "Belfast City"
 }, {
     "points": [51.471655, -0.453467, 54.972206, -1.617285],
     "passengers": 478806,
-    "to": "Newcastle",
+    "to": "Newcastle"
 }, {
     "points": [51.471655, -0.453467, 53.867956, -1.661885],
     "passengers": 132325,
