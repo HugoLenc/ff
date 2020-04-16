@@ -9,6 +9,7 @@
     "label": {
         "enabled": true,
         "anchor": "left"
+    }
 }, {
     "points": [28.101667, 81.666389, 29.273889, 82.191944],
     "passengers": 2972729,
