@@ -5,7 +5,10 @@
 }, {
     "points": [27.696583, 85.359100, 27.3500000, 87.6666667],
     "passengers": 2972729,
-    "to": "	Taplejung (TPJ)"
+    "to": "	Taplejung (TPJ)",
+    "label": {
+        "enabled": true,
+        "anchor": "left"
 }, {
     "points": [28.101667, 81.666389, 29.273889, 82.191944],
     "passengers": 2972729,
