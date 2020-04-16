@@ -1,24 +1,24 @@
 [{
     "points": [28.200881, 83.982056, 27.696583, 85.359100],
     "passengers": 2972729,
-    "to": "TRIBHUVAN INTL"
+    "to": "	Kathmandu (KTM)"
 }, {
     "points": [28.101667, 81.666389, 29.273889, 82.191944],
     "passengers": 2972729,
-    "to": "Jumla"
+    "to": "Jumla (JUM)"
 }, {
     "points": [29.273889, 82.191944, 28.101667, 81.666389],
     "passengers": 2972729,
-    "to": "Taplejung"
+    "to": "	Nepalgunj (KEP)"
 }, {
     "points": [28.200881, 83.982056, 28.782222, 83.722500],
     "passengers": 2972729,
-    "to": "Jomsom"
+    "to": "Jomsom (JMO)"
 }, {
     "points": [27.696583, 85.359100, 28.782222, 83.722500],
     "passengers": 2972729,
 }, { 
     "points": [27.696583, 85.359100, 28.200881, 83.982056],
     "passengers": 132325,
-    "to": "POKHARA"
+    "to": "	Pokhara (PKR)"
 }]
