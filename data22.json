@@ -3,6 +3,10 @@
     "passengers": 2972729,
     "to": "	Kathmandu (KTM)"
 }, {
+    "points": [27.350, 84.667, 28.200881, 83.982056],
+    "passengers": 2972729,
+    "to": "	Taplejung (TPJ)"
+}, {
     "points": [28.101667, 81.666389, 29.273889, 82.191944],
     "passengers": 2972729,
     "to": "Jumla (JUM)"
@@ -22,3 +26,4 @@
     "passengers": 132325,
     "to": "	Pokhara (PKR)"
 }]
+
