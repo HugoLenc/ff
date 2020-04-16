@@ -8,7 +8,8 @@
     "to": "	Taplejung (TPJ)",
     "label": {
         "enabled": true,
-        "anchor": "left"
+        "anchor": "bottomLeft",
+        "offsetY": 0
     }
 }, {
     "points": [28.101667, 81.666389, 29.273889, 82.191944],
